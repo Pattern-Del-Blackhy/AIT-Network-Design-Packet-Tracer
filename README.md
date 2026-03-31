@@ -61,22 +61,7 @@ Each campus contains:
 - IP addressing correctly implemented
 - Network devices configured and functioning
 
----
 
-## Screenshots
-
-### Network Topology
-![Topology](Screenshots/topology.png)
-
-### IP Configuration
-![IP Config](Screenshots/ip_config.png)
-
-### Routing Configuration
-![Routing](Screenshots/routing.png)
-
-### Connectivity Test
-![Ping Test](Screenshots/ping_test.png)
-
-
+## Author
 Collins Agbenyegah  
 IT Student | Aspiring Network Engineer |IT Support
